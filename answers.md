@@ -9,3 +9,5 @@
 4. $('#time-travel').parent().remove();
 
 5. $('body').css('color', 'aquamarine');
+
+6. $('.highlight').css('color', 'salmon');
