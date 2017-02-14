@@ -5,3 +5,5 @@
 2. $('h1.highlight').text('Justin C');
 
 3. $('#employment .info-title').text('Hobbies and thangs');
+
+4. $('#time-travel').parent().remove();
