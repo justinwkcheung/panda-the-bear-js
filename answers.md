@@ -33,3 +33,5 @@
 Adding elements to DOM
 
 1. $('#right-image img').clone().appendTo('form');
+
+2. for (var i=0; i < 10; i++) { $('#right-image img').clone().appendTo('form'); };
