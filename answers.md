@@ -29,3 +29,7 @@
 14. $('#submit').attr('disabled', true);
 
 15. $('.bio-info').empty();
+
+Adding elements to DOM
+
+1. $('#right-image img').clone().appendTo('form');
