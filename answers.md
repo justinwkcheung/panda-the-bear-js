@@ -11,3 +11,5 @@
 5. $('body').css('color', 'aquamarine');
 
 6. $('.highlight').css('color', 'salmon');
+
+7. $('h1').css('font-family', 'monospace');
