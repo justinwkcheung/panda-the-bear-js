@@ -25,3 +25,7 @@
 12. $('#email').attr('value', 'koalathebear@gmail.com');
 
 13. $('#submit').attr('value', 'En Garde!');
+
+14. $('#submit').attr('disabled', true);
+
+15. $('.bio-info').empty();
