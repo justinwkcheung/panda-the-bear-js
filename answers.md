@@ -17,3 +17,5 @@
 8. $('.action-icon-bg').css('background-color', 'blue');
 
 9. $('#name').attr('placeholder', 'Identify Yourself');
+
+10. $('#message').attr('placeholder', 'State your business');
