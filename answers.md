@@ -19,3 +19,5 @@
 9. $('#name').attr('placeholder', 'Identify Yourself');
 
 10. $('#message').attr('placeholder', 'State your business');
+
+11. $('#name').attr('value', 'Your Nemesis');
