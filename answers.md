@@ -7,3 +7,5 @@
 3. $('#employment .info-title').text('Hobbies and thangs');
 
 4. $('#time-travel').parent().remove();
+
+5. $('body').css('color', 'aquamarine');
