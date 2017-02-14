@@ -24,4 +24,4 @@
 
 12. $('#email').attr('value', 'koalathebear@gmail.com');
 
-13. 
+13. $('#submit').attr('value', 'En Garde!');
