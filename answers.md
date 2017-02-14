@@ -21,3 +21,7 @@
 10. $('#message').attr('placeholder', 'State your business');
 
 11. $('#name').attr('value', 'Your Nemesis');
+
+12. $('#email').attr('value', 'koalathebear@gmail.com');
+
+13. 
